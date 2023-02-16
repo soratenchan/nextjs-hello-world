@@ -5,6 +5,7 @@ import palettyImag from "../../public/paletty.png";
 export default function Home() {
   return (
     <div>
+      <p>previewモード確認</p>
       <p>ファイルを変更しメインブランチにpushしてみる</p>
       <Link href="/hello">Hello ページに遷移するリンク：next/link</Link>
       <br />
