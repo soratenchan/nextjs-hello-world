@@ -5,6 +5,7 @@ import palettyImag from "../../public/paletty.png";
 export default function Home() {
   return (
     <div>
+      <p>ファイルを変更しメインブランチにpushしてみる</p>
       <Link href="/hello">Hello ページに遷移するリンク：next/link</Link>
       <br />
       <Link href="https://gsacademy.jp/">
